@@ -1,6 +1,5 @@
 package com.zubarevam.option5;
 
-import javax.imageio.IIOException;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
